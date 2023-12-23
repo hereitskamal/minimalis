@@ -1,0 +1,33 @@
+.nav-container{
+    position: absolute;
+    position: sticky;
+    z-index: 1;
+    top: 0%;
+    width: auto;
+    height:60px;
+    contain: content;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.51);
+    backdrop-filter: blur(15px);
+    justify-content: center;
+}
+.nav-container h3{
+    color: rgb(0, 0, 0);
+    width: 25%;
+}
+.nav-links{
+    width: 25%;
+    display: flex;
+    justify-content: space-between;
+    margin: 12px 40px;
+}
+.nav-links a{
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    padding: 6px;
+    font-weight: 400;
+}
+.nav-links a:hover{
+    color: rgb(89, 28, 181);
+}

@@ -1,0 +1,15 @@
+
+.slick-slider {
+  }
+  
+  .cr-img {
+    width: 100%;
+    height: auto;
+    text-align: center;
+  }
+  
+  .cr-img img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
