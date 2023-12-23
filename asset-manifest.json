@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/www.hereitskamal.github.io/minimalis/static/css/main.4b73cd94.css",
-    "main.js": "/www.hereitskamal.github.io/minimalis/static/js/main.8c0d6d62.js",
+    "main.css": "/www.hereitskamal.github.io/minimalis/static/css/main.29506cdd.css",
+    "main.js": "/www.hereitskamal.github.io/minimalis/static/js/main.4438b10c.js",
     "static/js/787.dbf60290.chunk.js": "/www.hereitskamal.github.io/minimalis/static/js/787.dbf60290.chunk.js",
     "static/media/minimalfasion.png": "/www.hereitskamal.github.io/minimalis/static/media/minimalfasion.004464e89d6c270200f3.png",
     "static/media/Autumn.png": "/www.hereitskamal.github.io/minimalis/static/media/Autumn.e230b74d4e16ad8cd101.png",
@@ -12,12 +12,12 @@
     "index.html": "/www.hereitskamal.github.io/minimalis/index.html",
     "static/media/._UniNeue-HeavyItalic.ttf": "/www.hereitskamal.github.io/minimalis/static/media/._UniNeue-HeavyItalic.eaf3d4bb2fe43005c961.ttf",
     "static/media/._UniNeue-Light.ttf": "/www.hereitskamal.github.io/minimalis/static/media/._UniNeue-Light.eaf3d4bb2fe43005c961.ttf",
-    "main.4b73cd94.css.map": "/www.hereitskamal.github.io/minimalis/static/css/main.4b73cd94.css.map",
-    "main.8c0d6d62.js.map": "/www.hereitskamal.github.io/minimalis/static/js/main.8c0d6d62.js.map",
+    "main.29506cdd.css.map": "/www.hereitskamal.github.io/minimalis/static/css/main.29506cdd.css.map",
+    "main.4438b10c.js.map": "/www.hereitskamal.github.io/minimalis/static/js/main.4438b10c.js.map",
     "787.dbf60290.chunk.js.map": "/www.hereitskamal.github.io/minimalis/static/js/787.dbf60290.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b73cd94.css",
-    "static/js/main.8c0d6d62.js"
+    "static/css/main.29506cdd.css",
+    "static/js/main.4438b10c.js"
   ]
 }
